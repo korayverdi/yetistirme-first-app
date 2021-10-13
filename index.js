@@ -15,5 +15,5 @@ import ShoppingList from './CoreComponents/ShoppingList'
 import {name as appName} from './app.json';
 
 //import HelloWorldComponent from './App';
-
+//pull için ekleme
 AppRegistry.registerComponent(appName, () => ShoppingList);
